@@ -1,0 +1,22 @@
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\bin\Debug\TP Logica.exe
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\bin\Debug\TP Logica.pdb
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\bin\Debug\TP Logica.xml
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbprojAssemblyReference.cache
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP_Logica.Ordenamiento.resources
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP_Logica.Resources.resources
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbproj.GenerateResource.cache
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.exe
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.xml
+C:\Users\Seba\Desktop\TP PL\TP Logica\TP Logica\obj\x86\Debug\TP Logica.pdb
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\bin\Debug\TP Logica.exe
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\bin\Debug\TP Logica.pdb
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\bin\Debug\TP Logica.xml
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbprojAssemblyReference.cache
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP_Logica.Ordenamiento.resources
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP_Logica.Resources.resources
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbproj.GenerateResource.cache
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.vbproj.CoreCompileInputs.cache
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.exe
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.xml
+C:\Users\Seba1\Desktop\Informatica\Programacion Logica II\TP Logica\TP Logica\obj\x86\Debug\TP Logica.pdb
